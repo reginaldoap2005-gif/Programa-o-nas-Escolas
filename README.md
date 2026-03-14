@@ -15,6 +15,8 @@ Criar um guia de referência para educadores que desejam iniciar esse processo.
 📚 2. Curadoria de Fontes
 As seguintes fontes foram selecionadas e carregadas no NotebookLM para análise:
 
+link do trabalho NotebookLM: https://notebooklm.google.com/notebook/ef7ac57b-353f-4e1c-9d49-03d2b753a9b2
+
 [Projeto Programação na Escola]:(https://www2.unifap.br/programacaonaescola/files/2018/04/GUIA-COMPLETO.pdf)) - Foca em pensamento computacional na educação básica.
 
 [Manas Digitais e o ensino de programação nas escolas públicas - Ana Portilho]: (https://www.youtube.com/watch?v=XhM2oO4_nEc) - Ensino da Programaçãoe nas Escolas Públicas.
